@@ -1,0 +1,10 @@
+(
+  name: "mdtest",
+  summary: "MD testing the quark system",
+  version: "0.0.1",
+  schelp: "mdtest",
+  dependencies: [],
+  license: "GPL-3.0-or-later",
+  copyright: "MD 2025",
+  url: "https://github.com/martindupras/mdtestquark"
+)

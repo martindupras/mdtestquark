@@ -1,0 +1,14 @@
+TITLE::  mdtest
+summary:: just a test to see how quarks work
+categories:: none
+related:: none
+
+DESCRIPTION:: descriptiion
+
+CLASSMETHODS::
+
+subsection:: Initialization
+
+METHOD:: new
+Initialize a new instance.
+
